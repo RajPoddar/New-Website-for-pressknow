@@ -57,7 +57,7 @@ nav {
     border-radius: 5px; 
 }
 
-.menu li:hover .dropdown { 
+.menu li:focus .dropdown { 
     display: block; 
     background: #fff; 
 }
